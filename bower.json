@@ -1,0 +1,24 @@
+{
+  "name": "study-js-env",
+  "version": "1.0.0",
+  "description": "study about javascript environment",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "koty"
+  ],
+  "license": "BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2"
+  }
+}

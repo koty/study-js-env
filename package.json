@@ -1,0 +1,19 @@
+{
+  "name": "study-js-env",
+  "version": "1.0.0",
+  "description": "study about javascript environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "koty",
+  "license": "BSD",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.4.3",
+    "gulp-typescript": "^2.4.2",
+    "mocha": "^2.1.0",
+    "typescript": "^1.4.1"
+  }
+}
